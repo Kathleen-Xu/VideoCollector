@@ -87,7 +87,7 @@ export function getCommonConfig(): CommonConfig {
       minFollowers: 1000,
       maxDaysSincePublished: 30,
     },
-    targetCount: 6,
+    targetCount: 5,
     batchSize: 50,
     maxSearchIterations: 20,
   };
